@@ -22,7 +22,7 @@ title: ELITE
 email: badejo.semilore.7@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog site.
-#baseurl: "/my-blog" # the subpath of your site, e.g. /blog
+baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://oluwasemilorebadejo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: daredevil_blac
 github_username:  oluwasemilorebadejo
