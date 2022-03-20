@@ -28,7 +28,8 @@ twitter_username: daredevil_blac
 github_username:  oluwasemilorebadejo
 
 # Build settings
-theme: minima
+#Removed minima theme as its now a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
