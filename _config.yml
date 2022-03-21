@@ -21,11 +21,19 @@
 title: blac
 email: badejo.semilore.7@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog site.
+    Welcome to my blog, I am a machine learning engineer. 
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: daredevil_blac
 github_username:  oluwasemilorebadejo
+
+#Field minima uses, but are not defaulted
+author: Oluwasemilore Badejo
+linkedin_username: oluwasemilore-badejo-b8250222b
+
+#New fields not defaulted by jekyll
+#Create copyright below
+copyright: "blac"
 
 # Build settings
 #Removed minima theme as its now a regular theme
